@@ -10,7 +10,7 @@
     "url": "git+https://github.com/SilentSmuggler/webpage.git"
   },
   "author": "Coby Pritchard",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/SilentSmuggler/webpage/issues"
   },
